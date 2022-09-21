@@ -1,0 +1,50 @@
+#centro3{
+	width: 800px;
+	margin: auto; border: 0px solid; height: auto; overflow: hidden;
+	text-align: center;
+}
+
+.descripcion{
+	color: black;
+}
+
+.texto-nosotros{
+	color: black;
+	text-align: left;
+}
+
+.img-nosotros
+{
+	width: 100px;
+	float: left;
+	margin-right: 7px;
+}
+
+#filosofia{
+	height: auto; overflow: hidden;
+}
+
+#filosofia h4{
+    margin-left: 10px; 
+    text-align: left;
+    font-size: 13px;
+}
+
+#mision, #vision, #valores{
+	width: 500px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+#vision{
+	margin-right: 7px;
+	margin-left: 7px;
+}
+
+#bienvenidos
+{
+    text-align: center;
+}
